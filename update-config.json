@@ -1,0 +1,16 @@
+{
+  "ios": {
+    "latestVersion": "1.0.2",
+    "url": "https://apps.apple.com/us/app/%EA%B8%B0%EB%8B%88-%ED%82%A4%EC%9A%B0%EA%B8%B0-%EB%B0%A9%EC%B9%98%ED%98%95-rpg/id6825424714"
+  },
+  "android": {
+    "latestVersion": "1.0.3",
+    "url": "https://play.google.com/store/apps/details?id=com.guinea.adventure"
+  },
+  "message": {
+    "ko": "새 버전이 나왔어요! 업데이트하고 새로운 기능을 만나보세요.",
+    "en": "A new version is available! Update to get the latest features.",
+    "ja": "新しいバージョンが出ました！アップデートして最新の機能をお楽しみください。",
+    "zh": "新版本已上线！更新后即可体验最新内容。"
+  }
+}
