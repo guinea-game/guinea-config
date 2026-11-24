@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": "winter-2026",
+      "title": {
+        "ko": "겨울 기니 축제",
+        "en": "Winter Gini Festival",
+        "ja": "冬のギニ祭り",
+        "zh": "冬季豚鼠祭典"
+      },
+      "start": "2026-12-15",
+      "end": "2027-01-05"
+    },
+    {
+      "id": "spring-2027",
+      "title": {
+        "ko": "봄맞이 벚꽃 축제",
+        "en": "Spring Blossom Festival",
+        "ja": "春の桜祭り",
+        "zh": "春季樱花祭"
+      },
+      "start": "2027-03-20",
+      "end": "2027-04-05"
+    },
+    {
+      "id": "summer-2027",
+      "title": {
+        "ko": "한여름 바캉스 축제",
+        "en": "Summer Vacation Festival",
+        "ja": "真夏のバカンス祭り",
+        "zh": "仲夏假日祭典"
+      },
+      "start": "2027-07-20",
+      "end": "2027-08-10"
+    },
+    {
+      "id": "autumn-2027",
+      "title": {
+        "ko": "호박등 할로윈 축제",
+        "en": "Jack-o'-Lantern Halloween Festival",
+        "ja": "ハロウィン祭り",
+        "zh": "南瓜灯万圣节祭典"
+      },
+      "start": "2027-10-15",
+      "end": "2027-11-02"
+    }
+  ]
+}
